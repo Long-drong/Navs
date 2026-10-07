@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/icon.png" alt="CF-Navs 项目图标" width="112" height="112">
+  <img src="./public/icon.png" alt="CF-Navs 项目图标" width="112" height="112">
   <h1>CF-Navs</h1>
   <p><strong>把常用网站、工作工具和私密收藏，收进自己的起始页。</strong></p>
   <p>运行在 Cloudflare Workers 上，无需自建服务器。导入已有书签，选好主题，在电脑和手机上打开同一个导航空间。</p>
@@ -291,51 +291,9 @@ CF-Navs/
 
 参阅 [Sun-Panel 数据导入](docs/guides/SUNPANEL_IMPORT.md) 和 [浏览器书签导入](docs/guides/BROWSER_BOOKMARK_IMPORT.md)。
 
-## 贡献
-
-欢迎通过 Issue 反馈使用体验、通过 Pull Request 贡献改进。开始前请阅读 [参与开发](CONTRIBUTING.md)，按改动范围完成验证；安全问题请使用 [私密报告渠道](SECURITY.md)，不要在公开 Issue 中粘贴凭据或私密书签。
-
-## 致谢
-
-项目参考了 [Sun-Panel](https://github.com/hslr-s/sun-panel) 的设计思路，部分图标获取逻辑受 [iori-nav](https://github.com/jy02739244/iori-nav) 启发。
-
-## Star History
-
-<a href="https://www.star-history.com/?repos=lbjxr%2FCF-Navs&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=lbjxr/CF-Navs&type=date&theme=dark&legend=top-left&sealed_token=7kyATdN3x5tJ6WJAhA5MwxWL93j-C9ZnSxJli_vTqztkkZF54Sp95nJzSMW-Xggc19KoraDrqDNjCWN6VuQrSEmOX8CAbyYqMi0I_6K3DS2GEr0x1rgf8VDa2kBJIgOP74JqDldlCFRRbGGNjvrDVJ12e4SIShmH78leu6Vxg6WQzidKg4PULPCzlwi-" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=lbjxr/CF-Navs&type=date&legend=top-left&sealed_token=7kyATdN3x5tJ6WJAhA5MwxWL93j-C9ZnSxJli_vTqztkkZF54Sp95nJzSMW-Xggc19KoraDrqDNjCWN6VuQrSEmOX8CAbyYqMi0I_6K3DS2GEr0x1rgf8VDa2kBJIgOP74JqDldlCFRRbGGNjvrDVJ12e4SIShmH78leu6Vxg6WQzidKg4PULPCzlwi-" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lbjxr/CF-Navs&type=date&legend=top-left&sealed_token=7kyATdN3x5tJ6WJAhA5MwxWL93j-C9ZnSxJli_vTqztkkZF54Sp95nJzSMW-Xggc19KoraDrqDNjCWN6VuQrSEmOX8CAbyYqMi0I_6K3DS2GEr0x1rgf8VDa2kBJIgOP74JqDldlCFRRbGGNjvrDVJ12e4SIShmH78leu6Vxg6WQzidKg4PULPCzlwi-" />
- </picture>
-</a>
 
 ## 许可证
 
 本项目采用 [Apache License 2.0](LICENSE)，项目归属信息见 [`NOTICE`](NOTICE)。
-
-### Fork 与归属说明
-
-如果你 Fork、重新分发或发布基于 CF-Navs 的修改版本，请：
-
-- 保留 `LICENSE`、`NOTICE` 以及源文件中已有的版权、许可和归属声明。
-- 按 Apache License 2.0 的要求，在修改过的文件中保留清晰的修改说明。
-- 在 README 或产品文档中明确说明项目基于 CF-Navs，并链接上游仓库；不要暗示修改版本由原项目作者官方发布或认可。
-
-以上说明用于帮助用户识别衍生版本；具体许可权利和义务以 [LICENSE](LICENSE) 为准。
-
-<!-- 爱发电赞助区 (折叠卡片) -->
-<hr>
-
-<div align="center">
-
-<details>
-  <summary><b>☕️ 喜欢 CF-Navs？请作者喝杯咖啡 / Sponsor</b></summary>
-  <br>
-  <p>如果这个项目对你有帮助，欢迎赞助支持！你的支持是维持项目持续更新和维护的最大动力 ❤️</p>
-  <a href="https://afdian.com/a/benjian" target="_blank">
-    <img src="https://img.shields.io/badge/爱发电-前往赞助-946CE6?style=for-the-badge&logo=afdian&logoColor=white" alt="爱发电赞助">
-  </a>
-  <p><small>💡 赞助支持代搭建指导,详情见爱发电主页</small></p>
-</details>
 
 </div>
